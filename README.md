@@ -7,7 +7,7 @@
 **Undergraduate Researcher in GenAI & Computer Vision**  
 Computer Science, Drexel University (BS ’27)  
 📍 Philadelphia, PA  
-🌐 Website: https://www.arijitchakma.com  
+🌐 Website: https://www.arijichakma.com  
 📧 Email: ac4393@drexel.edu  
 
 ---
