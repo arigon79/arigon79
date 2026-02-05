@@ -142,7 +142,7 @@ I am actively seeking research collaborations, internships, and graduate researc
 ## 📫 Let’s Connect
 
 - 📧 [ac4393@drexel.edu](mailto:ac4393@drexel.edu)  
-- 🌐 [www.arijitchakma.com](https://www.arijitchakma.com)  
+- 🌐 [www.arijichakma.com](https://www.arijitchakma.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arijitchakma) | [GitHub](https://github.com/arijitchakma79)
 
 ---
